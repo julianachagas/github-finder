@@ -1,26 +1,37 @@
 # GitHub Finder
 
-App to search GitHub users and display their info and repositories, built with React and TypeScript.
+App to search GitHub users and display their info and repositories, built with React, TypeScript, and Styled Components.
 
 ## 🛠️ Technologies
 
 - TypeScript
 - React
 - React Router
+- Styled Components
 
-## 💻 Status
+## 🔗 Link
 
-🚧 _in progress_ 🚧
+- Live App URL: [GitHub Finder](https://github-finder-julianachagas.netlify.app/)
 
 ## 🌐 API
 
 - API used in the project: [GitHub REST API](https://docs.github.com/en/rest)
 
+## 💻 Preview
+
+- Desktop
+
+<img src="github/preview-desktop.gif" alt=""/> <br/><br/>
+
+- Mobile
+
+<img src="github/preview-mobile.gif" alt=""/> <br/><br/>
+
 ## 💡 Features
 
 ✔️ Search for a GitHub user \
-✔️ View user's details: profile picture, username, location, followers, and following \
-✔️ View a list of the user's repositories sorted by stars in descending order, the most popular repositories appear first\
+✔️ View user's details: profile picture, username, location, number of followers and following \
+✔️ View a list of the user's repositories sorted by stars in descending order, so the most popular repositories appear first\
 ✔️ View information about a repository: name, language, star count, forks count, and link to the repository
 
 ## ⚙️ How to use
